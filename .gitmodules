@@ -1,0 +1,6 @@
+[submodule "repos/A_visual_repair"]
+	path = repos/A_visual_repair
+	url = https://github.com/skygitcs/Visual_Driven_Mesh_Repair.git
+[submodule "repos/B_fast_arrangement"]
+	path = repos/B_fast_arrangement
+	url = https://github.com/skygitcs/FastAndRobustMeshArrangements.git
