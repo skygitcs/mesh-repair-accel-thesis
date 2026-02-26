@@ -25,3 +25,5 @@ data/raw_models/
 data/objaverse_subset/
 outputs/
 !outputs/.gitkeep
+!outputs/summary.csv
+!outputs/stage_time.csv
