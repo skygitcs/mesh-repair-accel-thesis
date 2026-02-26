@@ -20,7 +20,8 @@ __pycache__/
 .venv/
 venv/
 
-# large data 
-data\raw_models/
-data\objaverse_subset/
+# large data & outputs (keep small manifests)
+data/raw_models/
+data/objaverse_subset/
 outputs/
+!outputs/.gitkeep
